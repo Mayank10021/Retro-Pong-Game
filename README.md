@@ -61,13 +61,13 @@ cd Retro-Pong-Game
 
 ```
 ---
-# 2. Run the Game
+### 2. Run the Game
 
 Simply open the index.html file in your browser:
 
 index.html
 
-##📂 Project Structure
+## 📂 Project Structure
 ```
 Retro-Pong-Game/
 │
@@ -76,7 +76,7 @@ Retro-Pong-Game/
 └── README.md       # Project documentation
 ```
 
-##🧠 Game Logic Overview
+## 🧠 Game Logic Overview
 
 Ball bounces off top and bottom walls
 
@@ -88,7 +88,7 @@ Score updates when ball goes out of bounds
 
 Game ends when either player reaches 5 points
 
-##🌟 Future Improvements
+## 🌟 Future Improvements
 
 Add 2-player mode
 
@@ -100,7 +100,7 @@ Add mobile touch controls
 
 Improve UI with retro fonts and animations
 
-##📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
