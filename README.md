@@ -55,27 +55,28 @@ Perfect for learning JavaScript game development and showcasing frontend skills.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Retro-Pong-Game.git
+git clone https://github.com/Mayank10021/Retro-Pong-Game.git
 cd Retro-Pong-Game
 
 
 ```
 ---
-2. Run the Game
+# 2. Run the Game
 
 Simply open the index.html file in your browser:
 
 index.html
 
-
-📂 Project Structure
+##📂 Project Structure
+```
 Retro-Pong-Game/
 │
 ├── index.html      # Main HTML file
 ├── script.js       # Game logic and canvas rendering
 └── README.md       # Project documentation
+```
 
-🧠 Game Logic Overview
+##🧠 Game Logic Overview
 
 Ball bounces off top and bottom walls
 
@@ -87,7 +88,7 @@ Score updates when ball goes out of bounds
 
 Game ends when either player reaches 5 points
 
-🌟 Future Improvements
+##🌟 Future Improvements
 
 Add 2-player mode
 
@@ -99,7 +100,7 @@ Add mobile touch controls
 
 Improve UI with retro fonts and animations
 
-📜 License
+##📜 License
 
 This project is open-source and available under the MIT License.
 
